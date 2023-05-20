@@ -1,6 +1,5 @@
-
 # dang-thats-delicious
 
-```
-npm  run dev
+```bash
+npm run dev
 ```
